@@ -1,4 +1,4 @@
-# tvheadend42-avm
+# tvheadend43-avm
 tvheadend4.3 packages optimized for AVM Fritz!OS 7.0x Sat>IP Service
 
 With Update to Fritz!OS 7.0x on my Cable Box and my DVB-C Repeater using Sat>IP was broken with tvheadend. 
